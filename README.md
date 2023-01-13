@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **RogeMB/RogeMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,24 +15,24 @@ Here are some ideas to get you started:
 -->
 
 
-<img aling="righ" src="https://visitor-badge.glitch.me/badge?page_id=RogeMB.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
+<img aling="center" src="https://visitor-badge.glitch.me/badge?page_id=RogeMB.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I am+Roge+Mohigefer!;&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, Roge Mohigefer Barrera, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, It's Roge Mohigefer Barrera, Developer/Coder 🥷,  Learner 👨‍💻 &  Musician ⚡ from Spain sp
   <br>
-  <br>
+  <!-- <br>
   🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
+  <br> -->
+  💻 I enjoy learning new technologies and frameworks.
   <br>
-  💻 I love to learn new technologies and frameworks.
-  <br>
-  🧑‍💼 I’m currently finishing my studies as Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://www.codezeros.com/"> Salesianos Triana </a>
+  🧑‍💼 I’m currently finishing my studies as Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a>
   <br>
 </p>
 
@@ -99,21 +98,3 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/KushalTanna24/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br><br><br><br><br><br>
-
-<h4 align="center">
-  <a href="https://github.com/KushalTanna24?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
