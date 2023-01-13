@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img aling="righ" src="https://visitor-badge.glitch.me/badge?page_id=RogeMB.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Hi, I'm Kushal Tanna, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, Roge MB, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
   <br>
   <br>
   🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
