@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Hi, It's Roge Mohigefer Barrera, Developer/Coder 🥷,  Learner 👨‍💻 &  Musician ⚡ from Spain sp
+  Welcome! My name is Roge Mohigefer Barrera. I am a Developer/Coder 🥷,  Learner 👨‍💻 &  Musician  🎸 from Spain sp
   <br>
   <!-- <br>
-  🎓 Completed my masters degree from <a href="direccion didactica"> DAIICT.</a>
+  🎓 Completed my masters degree from <a href="direccion didactica"> lo quesea</a>
   <br> -->
   💻 I enjoy learning new technologies and frameworks.
   <br>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br>
-<h4>Learning</h4>
+<h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,express,docker,kubernetes,fastapi,django,nestjs,tailwind" />
