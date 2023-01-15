@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma,firebase,md" /><br>
+    <img src="https://skillicons.dev/icons?i=java,py,spring,idea,eclipse,hibernate,maven,postgres,mysql" />
 
   </a>
 </p>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h4>Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,express,docker,kubernetes,fastapi,django,nestjs,tailwind" />
   </a>
 </p>
 <hr>
