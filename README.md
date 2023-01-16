@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=RogeMB&show_icons=true&theme=radical" width="100%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RogeMB&show_icons=true&theme=radical" width="100%"/>
    <br>
 </p>
 
