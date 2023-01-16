@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,express,docker,kubernetes,fastapi,django,nestjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,express,docker,fastapi,django,nestjs,tailwind" />
   </a>
 </p>
 <hr>
