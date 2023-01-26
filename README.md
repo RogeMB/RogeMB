@@ -47,18 +47,18 @@ Here are some ideas to get you started:
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
+<h3 align="center">Continous learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma,firebase,md" /><br>
-    <img src="https://skillicons.dev/icons?i=java,py,spring,idea,eclipse,hibernate,maven,postgres,mysql" />
-
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma,md" /><br>
+    <img src="https://skillicons.dev/icons?i=java,py,spring,postgres,hibernate,maven,idea,eclipse" />
   </a>
 </p>
 <br>
-<h3 align="center">Learning</h3>
+<h3 align="center">Starting learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,express,docker,fastapi,django,nestjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=firebase,flutter,dart,nodejs,docker,fastapi,nestjs" />
   </a>
 </p>
 <hr>
