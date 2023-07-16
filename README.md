@@ -27,14 +27,13 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Welcome! My name is Roge Mohigefer Barrera. I am a Developer/Coder 🥷,  Learner 👨‍💻 &  Musician  🎸 from Spain sp
+  Welcome! 🧑‍💼 My name is Rogelio Mohigefer Barrera. I am a Developer 👨‍💻 &  Musician  🎸 from Spain sp
   <br>
-  <!-- <br>
-  🎓 Completed my masters degree from <a href="direccion didactica"> lo quesea</a>
-  <br> -->
-  💻 I enjoy learning new technologies and frameworks.
+  💻 I enjoy learning new technologies and frameworks || Me encanta aprender nuevas tecnologías y frameworks.
   <br>
-  🧑‍💼 I’m currently finishing my studies as Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a>
+  🎓 I have completed my studies as Higher Certificate Multi-platform Application Development (NFQ Level 6 in Ireland) at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a>
+  <br>
+  🎓 He completado mis estudios de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (FPS en España) en <a href="https://triana.salesianos.edu/"> Salesianos Triana </a>
   <br>
 </p>
 
