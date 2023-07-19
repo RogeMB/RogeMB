@@ -1,7 +1,8 @@
+<!--
 <div>
   <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=RogeMB.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
 </div>
-
+-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Roge+Mohigefer!;&center=true&size=30">
@@ -58,6 +59,7 @@
 </p>
 <hr>
 
+<!--
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
@@ -68,7 +70,6 @@
 </div>
 
   <hr>
-<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
