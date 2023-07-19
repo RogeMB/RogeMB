@@ -11,10 +11,10 @@
 
 <br>
 <div align="center">
-  Welcome! 🧑‍💼 My name is Rogelio Mohigefer Barrera. I am a Developer 👨‍💻 from Spain. <br />
+  Welcome! 🧑‍💼 My name is Rogelio Mohigefer Barrera. I am a Developer 👨‍💻 from Spain.
 </div>
-  <br />
- <div align="left"> 
+<br />
+<div align="left"> 
   <p>
     💻 I enjoy learning new technologies and frameworks. || Me encanta aprender nuevas tecnologías y frameworks.
   </p> 
